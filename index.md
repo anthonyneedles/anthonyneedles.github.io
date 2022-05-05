@@ -1,5 +1,3 @@
-# Anthony Needles' Homepage
-
 ## Embedded Projects
 
 [Can be found here](./embedded.md)
